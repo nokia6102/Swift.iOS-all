@@ -1,0 +1,95 @@
+
+/* Class = "UIButton"; normalTitle = "相簿"; ObjectID = "0f5-Rt-t9M"; */
+"0f5-Rt-t9M.normalTitle" = "相簿";
+
+/* Class = "UIButton"; normalTitle = "新增資料"; ObjectID = "0rW-nu-KQD"; */
+"0rW-nu-KQD.normalTitle" = "新增资料";
+
+/* Class = "UIButton"; normalTitle = "修改資料"; ObjectID = "39L-MT-7w2"; */
+"39L-MT-7w2.normalTitle" = "修改资料";
+
+/* Class = "UILabel"; text = "圖片："; ObjectID = "5jE-Ac-9K0"; */
+"5jE-Ac-9K0.text" = "图片：";
+
+/* Class = "UILabel"; text = "Email："; ObjectID = "AVM-zG-JRS"; */
+"AVM-zG-JRS.text" = "Email：";
+
+/* Class = "UILabel"; text = "地址："; ObjectID = "BZS-TX-6ct"; */
+"BZS-TX-6ct.text" = "地址：";
+
+/* Class = "UILabel"; text = "性別："; ObjectID = "CcY-4b-OI6"; */
+"CcY-4b-OI6.text" = "性別：";
+
+/* Class = "UILabel"; text = "地址："; ObjectID = "Ddk-YZ-dQr"; */
+"Ddk-YZ-dQr.text" = "地址：";
+
+/* Class = "UILabel"; text = "學號："; ObjectID = "L9j-2L-PJd"; */
+"L9j-2L-PJd.text" = "學號：";
+
+/* Class = "UILabel"; text = "圖片："; ObjectID = "MYE-22-eod"; */
+"MYE-22-eod.text" = "圖片：";
+
+/* Class = "UILabel"; text = "學號："; ObjectID = "Q0J-er-oCH"; */
+"Q0J-er-oCH.text" = "學號：";
+
+/* Class = "UILabel"; text = "性別："; ObjectID = "RLq-Dt-HpP"; */
+"RLq-Dt-HpP.text" = "性別：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UH0-8v-fRt"; */
+"UH0-8v-fRt.text" = "Label";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "Y1D-eN-HTy"; */
+"Y1D-eN-HTy.text" = "姓名：";
+
+/* Class = "UILabel"; text = "電話："; ObjectID = "Y76-uf-tO1"; */
+"Y76-uf-tO1.text" = "電話：";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "cIP-EN-QC8"; */
+"cIP-EN-QC8.text" = "姓名：";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "cTy-B3-dnF"; */
+"cTy-B3-dnF.text" = "姓名：";
+
+/* Class = "UILabel"; text = "電話："; ObjectID = "daR-Ct-yD7"; */
+"daR-Ct-yD7.text" = "電話：";
+
+/* Class = "UIButton"; normalTitle = "相簿"; ObjectID = "gg7-RU-UWf"; */
+"gg7-RU-UWf.normalTitle" = "相簿";
+
+/* Class = "UILabel"; text = "學號："; ObjectID = "kDl-li-ToQ"; */
+"kDl-li-ToQ.text" = "學號：";
+
+/* Class = "UIButton"; normalTitle = "相機"; ObjectID = "lsW-mx-glF"; */
+"lsW-mx-glF.normalTitle" = "相機";
+
+/* Class = "UILabel"; text = "Email："; ObjectID = "mMx-ap-KKd"; */
+"mMx-ap-KKd.text" = "Email：";
+
+/* Class = "UIButton"; normalTitle = "離開"; ObjectID = "pYd-lx-5Tw"; */
+"pYd-lx-5Tw.normalTitle" = "離開";
+
+/* Class = "UILabel"; text = "地址："; ObjectID = "pbQ-oW-moH"; */
+"pbQ-oW-moH.text" = "地址：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qWW-sR-gbs"; */
+"qWW-sR-gbs.text" = "Label";
+
+/* Class = "UILabel"; text = "性別："; ObjectID = "tDe-IY-ox0"; */
+"tDe-IY-ox0.text" = "性別：";
+
+/* Class = "UIButton"; normalTitle = "相機"; ObjectID = "v2e-9w-KXd"; */
+"v2e-9w-KXd.normalTitle" = "相機";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v7s-yo-3ts"; */
+"v7s-yo-3ts.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wFw-ZR-h6g"; */
+"wFw-ZR-h6g.text" = "Label";
+
+/* Class = "UILabel"; text = "班別："; ObjectID = "yMS-GP-rW7"; */
+"yMS-GP-rW7.text" = "班別：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zAr-Hw-CpX"; */
+"zAr-Hw-CpX.text" = "Label";
+
+"KTc-TD-Wlu.text" = "新标签";

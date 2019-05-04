@@ -1,0 +1,5 @@
+"CFBundleDisplayName" = "資料庫框架";
+"NavigationBarAddButton" = "新增";
+"NavigationBarEditButton" = "編輯";
+"NSCameraUsageDescription" = "使用相機才能拍照並存擋";
+"NSPhotoLibraryUsageDescription" = "挑選相片並存擋";

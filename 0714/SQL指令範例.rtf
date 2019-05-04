@@ -1,0 +1,40 @@
+{\rtf1\ansi\ansicpg950\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset136 STSongti-TC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs36 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 --
+\f1 \'b7\'ed\'a4\'e9
+\f0 \
+--select date('now')\
+\uc0\u8232 \
+--
+\f1 \'ad\'70\'ba\'e2\'b2\'7b\'a6\'62\'a8\'ec\'af\'53\'a9\'77\'a4\'e9\'b4\'c1\'a6\'b3\'b4\'58\'a4\'d1
+\f0 \
+--select julianday('now')-julianday(create_date) as diffDate,stu_no,name from student\
+\uc0\u8232 \
+--
+\f1 \'a8\'fa\'b1\'6f\'b7\'ed\'a4\'eb\'aa\'ba\'b3\'cc\'ab\'e1\'a4\'40\'a4\'d1
+\f0 \
+--SELECT date('now','start of month','+1 month','-1 day')\
+\uc0\u8232 \
+--
+\f1 \'b7\'ed\'a6\'7e\'ab\'d7\'a4\'51\'a4\'eb\'aa\'ba\'b2\'c4\'a4\'47\'ad\'d3\'ac\'50\'b4\'c1
+\f0 \
+--SELECT date('now','start of year','+9 months','weekday 2')\
+\uc0\u8232 \
+--
+\f1 \'ac\'64\'b8\'df\'ab\'fc\'a5\'4f
+\f0 \
+select stu_no,name,gender,picture,phone,address,email,class,create_date from student where gender = 1 and email like '%cc%'\
+\uc0\u8232 \
+--
+\f1 \'a7\'52\'b0\'a3\'ab\'fc\'a5\'4f
+\f0 \
+delete from student where stu_no='106'
+\fs24 \
+}

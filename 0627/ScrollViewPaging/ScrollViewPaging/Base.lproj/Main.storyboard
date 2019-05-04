@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ScrollViewPaging" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LkJ-Xd-ZRo">
+                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                            </scrollView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="10" currentPage="5" translatesAutoresizingMaskIntoConstraints="NO" id="37b-e1-EGl">
+                                <rect key="frame" x="112" y="580" width="151" height="37"/>
+                                <color key="pageIndicatorTintColor" red="1" green="0.15852917140530076" blue="0.10477164222806223" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </pageControl>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="LkJ-Xd-ZRo" secondAttribute="trailing" id="8hU-wq-BzI"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="LkJ-Xd-ZRo" secondAttribute="bottom" id="TaF-fd-m1C"/>
+                            <constraint firstItem="LkJ-Xd-ZRo" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="XKA-Gn-gcQ"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="37b-e1-EGl" secondAttribute="bottom" constant="50" id="kqq-Rn-bxM"/>
+                            <constraint firstItem="LkJ-Xd-ZRo" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="rNI-Sl-JAc"/>
+                            <constraint firstItem="37b-e1-EGl" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yNH-nR-L8p"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="pageControl" destination="37b-e1-EGl" id="dho-d1-wmF"/>
+                        <outlet property="scrollView" destination="LkJ-Xd-ZRo" id="17v-rS-yOT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

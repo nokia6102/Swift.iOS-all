@@ -1,0 +1,5 @@
+"CFBundleDisplayName" = "DB Frame";
+"NavigationBarAddButton" = "ADD";
+"NavigationBarEditButton" = "EDIT";
+"NSCameraUsageDescription" = "使用相機才能拍照並存擋";
+"NSPhotoLibraryUsageDescription" = "挑選相片並存擋";
